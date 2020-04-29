@@ -1,0 +1,10 @@
+C:\Users\mikha\source\repos\ISP4(2)\ISP4(2)\obj\Debug\ISP4(2).csprojAssemblyReference.cache
+C:\Users\mikha\source\repos\ISP4(2)\ISP4(2)\obj\Debug\ISP4(2).csproj.CoreCompileInputs.cache
+C:\Users\mikha\source\repos\ISP4(2)\ISP4(2)\bin\Debug\ISP4(2).exe.config
+C:\Users\mikha\source\repos\ISP4(2)\ISP4(2)\bin\Debug\ISP4(2).exe
+C:\Users\mikha\source\repos\ISP4(2)\ISP4(2)\bin\Debug\ISP4(2).pdb
+C:\Users\mikha\source\repos\ISP4(2)\ISP4(2)\bin\Debug\SystemInfo.dll
+C:\Users\mikha\source\repos\ISP4(2)\ISP4(2)\bin\Debug\SystemInfo.pdb
+C:\Users\mikha\source\repos\ISP4(2)\ISP4(2)\obj\Debug\ISP4(2).csproj.CopyComplete
+C:\Users\mikha\source\repos\ISP4(2)\ISP4(2)\obj\Debug\ISP4(2).exe
+C:\Users\mikha\source\repos\ISP4(2)\ISP4(2)\obj\Debug\ISP4(2).pdb
